@@ -1,3 +1,3 @@
 # manga-website
-Personal manga website
-...More info to come...
+# This is my personal manga collection website #
+
