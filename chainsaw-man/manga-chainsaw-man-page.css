@@ -1,0 +1,10 @@
+/* This line sets the background color to gray for easier editing */
+body {
+	background-color: Gray;
+	margin: 0;
+}
+
+iframe {
+	width: auto;
+	height: 230px;
+}
