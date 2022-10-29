@@ -1,10 +1,29 @@
 /* This line sets the background color to gray for easier editing */
+.banner {
+	max-width: 100%;
+	width: 100%;
+}
+
 body {
 	background-color: Gray;
 	margin: 0;
 }
 
+.csmdesc {
+	max-width: 100%;
+	width: center;
+	color: white;
+	margin: 5px;
+}
+
 iframe {
+	max-width: 100%;
+	display:  block;
+}
+
+.video {
+	margin: 0;
+	max-width: 100%;
 	width: auto;
-	height: 230px;
+	height: auto;
 }
